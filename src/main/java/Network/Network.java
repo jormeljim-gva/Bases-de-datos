@@ -122,7 +122,6 @@ public class Network{
      * @throws SQLException
      */
     private static boolean checkPostExists(int postToCheck) throws SQLException {
-
         return true;
     }
 
